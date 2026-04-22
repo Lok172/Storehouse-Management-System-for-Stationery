@@ -27,7 +27,7 @@ Storehouse Management System for Stationery is designed to help both administrat
 2. In project properties:
    - C/C++ → General → Additional Include Directories → add the `include` folder
    - Linker → General → Additional Library Directories → add the `lib64` folder
-   - Linker → Input → Additional Dependencies → add `vs14/mysqlcppconn.lib`
+   - Linker → Input → Additional Dependencies → type vs14/mysqlcppconn.lib
 
 3. Get `libmysql-cpp` from NuGet Package Manager
 
