@@ -1,4 +1,4 @@
-# WISH Stationery Storehouse Management System
+# WISH Stationery System
 
 ## Overview
 Storehouse Management System for Stationery is designed to help both administrative and operational staff to increase storehouse management efficiency with modules for admin and staff to assist in modification of details of products and suppliers, product history tracking, and financial reports.
